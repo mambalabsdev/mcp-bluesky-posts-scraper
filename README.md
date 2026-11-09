@@ -100,7 +100,7 @@ Pay per event on Apify, billed to your Apify account. Prices in USD.
 | Event | Free plan | Bronze | Silver | Gold |
 |---|---|---|---|---|
 | `post-row`, one post or reply | $0.0011 | $0.001045 | $0.00099 | $0.000935 |
-| `apify-actor-start`, per run start | $0.005 | $0.005 | $0.005 | $0.005 |
+| `apify-actor-start`, per run start | $0.0065 | $0.0065 | $0.0065 | $0.0065 |
 
 Source status rows and refused input are free. Mamba Labs pays the platform costs of the run. Mamba Labs pays the platform costs of the run, Apify proxy traffic included.
 
