@@ -1,6 +1,6 @@
 {
   "name": "@mambalabsdev/mcp-bluesky-posts-scraper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "MCP server for Bluesky Posts Scraper. Bluesky posts by keyword or account, and replies by post, with exact counts. Runs on Apify. Clay-ready output.",
   "type": "module",
   "bin": {
