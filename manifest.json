@@ -1,7 +1,7 @@
 {
   "manifest_version": "0.3",
   "name": "mcp-bluesky-posts-scraper",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "MCP server for Bluesky Posts Scraper. Bluesky posts by keyword or account, and replies by post, with exact counts. Runs on Apify. Clay-ready output.",
   "author": {
     "name": "Mamba Labs"
